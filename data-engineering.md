@@ -1,4 +1,4 @@
-# Data Engineering
+# Guia de Estudos para Data Engineering
 ## Nivel 1
 - [ ] **Engenharia de Dados - Fundamentos**:
    - Uma pessoa Engenheira de Dados desempenha um papel crucial ao projetar, implementar e manter as infraestruturas de dados que permitem que uma organização trabalhe de maneira eficiente com suas informações. A pessoa engenheira de dados cria pipelines de dados para integrar, limpar e transformar dados provenientes de várias fontes e formatos. Isso possibilita a geração de insights valiosos para o negócio e melhora a tomada de decisões estratégicas.
