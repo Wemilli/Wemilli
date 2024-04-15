@@ -5,6 +5,7 @@
 
 <p>Olá, bem-vinda(o) ao meu perfil !</p>
 <p></p>Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e estagiando na área de Dados!</p>
+##
 
 <div>
   <a href="https://github.com/Wemilli">
