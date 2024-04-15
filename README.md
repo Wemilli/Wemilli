@@ -3,8 +3,8 @@
     <span>Wemi</span>
 </h1>
 
-<p>Olá, bem-vinda(o) ao meu perfil!</p>
-<p></p>Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e sou estagiaria na área de Dados!</p>
+<p>Olá, bem-vinda(o) ao meu perfil !</p>
+<p></p>Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e estagiando na área de Dados!</p>
 
 <div>
   <a href="https://github.com/Wemilli">
@@ -20,7 +20,6 @@
   <img align="center" alt="Wemi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wemi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wemi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wemi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
