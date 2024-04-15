@@ -4,7 +4,7 @@
 </h1>
 
 <p>Olá, bem-vinda(o) ao meu perfil !</p>
-<p></p>Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e estagiando na área de Dados!</p>
+<p></p>Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e estagiando na área de Engenharia e Governança de Dados!</p>
 
 
 ##
