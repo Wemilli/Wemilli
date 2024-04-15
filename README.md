@@ -1,3 +1,8 @@
+<h1>
+    <img align="center" alt="Logo GitHub Custom" width="36px" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=6629b47e&is=66173f7e&hm=e73fea923ed581b2cc53463ba578b4d7f33cb935a0acacbc37bd76f4a785c8f4&"></a>
+    <span>Wemi</span>
+</h1>
+
 <div>
   <a href="https://github.com/Wemilli">
   
