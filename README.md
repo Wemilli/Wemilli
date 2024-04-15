@@ -3,6 +3,8 @@
     <span>Wemi</span>
 </h1>
 
+Olá, bem-vinda(o) ao meu perfil! Sou técnica em Desenvolvimento de Sistemas, atualmente estou cursando Sistemas de informação e sou estagiaria na área de Dados!
+
 <div>
   <a href="https://github.com/Wemilli">
   
